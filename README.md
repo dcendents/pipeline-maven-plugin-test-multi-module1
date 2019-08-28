@@ -1,0 +1,1 @@
+# pipeline-maven-plugin-test-multi-module1
